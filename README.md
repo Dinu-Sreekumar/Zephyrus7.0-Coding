@@ -107,6 +107,3 @@ Here is an overview of the key files and directories in the project:
 ```
 
 ---
-
-This project was bootstrapped with Firebase Studio.
-# Zephyrus7.0-Coding
